@@ -30,6 +30,8 @@
   ## Usage
     
   Server.js is the entry point for this app.  Begin by running this in your terminal. From the first prompt, select what action you'd like to take. Then follow the next series of prompts to complete this action.  When done, select "Quit".
+  
+  [![Screenshot](https://github.com/DanGillette25/employeedb/blob/master/screenshot1.JPG?raw=true)]
 
   ## Contribution 
     
